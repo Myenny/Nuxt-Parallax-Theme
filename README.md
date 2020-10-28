@@ -1,4 +1,8 @@
-# ww-nuxt-app
+# Nuxt-Parallax-Theme
+
+Basic Parallax theme layout made with Nuxt and Vuetify
+
+Enjoy!
 
 ## Build Setup
 
